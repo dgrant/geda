@@ -1,0 +1,76 @@
+gEDA/gschem version 20040111
+gEDA/gschem comes with ABSOLUTELY NO WARRANTY; see COPYING for more details.
+This is free software, and you are welcome to redistribute it under certain
+conditions; please see the COPYING file for more details.
+
+Read system-gschemrc file [/usr/share/gEDA/system-gschemrc]
+Read ~/.gEDA/gschemrc file [/home/david/.gEDA/gschemrc]
+Did not find optional local gschemrc file [./gschemrc]
+Read init scm file [/usr/share/gEDA/scheme/gschem.scm]
+Read an old format sym/sch file!
+Please run g[sym|sch]update on:
+[/home/david/gaf/vanderPauw/vanderPauw.sch]
+Read an old format sym/sch file!
+Please run g[sym|sch]update on:
+[/home/david/gaf/gschem-sym/12V-plus.sym]
+Read an old format sym/sch file!
+Please run g[sym|sch]update on:
+[/home/david/gaf/gschem-sym/12V-minus.sym]
+Read an old format sym/sch file!
+Please run g[sym|sch]update on:
+[/home/david/gaf/gschem-sym/resistor-0.sym]
+Read an old format sym/sch file!
+Please run g[sym|sch]update on:
+[/home/david/gaf/gschem-sym/resistor-0.sym]
+Read an old format sym/sch file!
+Please run g[sym|sch]update on:
+[/home/david/gaf/gschem-sym/resistor-0.sym]
+Read an old format sym/sch file!
+Please run g[sym|sch]update on:
+[/home/david/gaf/gschem-sym/resistor-0.sym]
+Read an old format sym/sch file!
+Please run g[sym|sch]update on:
+[/home/david/gaf/gschem-sym/12V-plus.sym]
+Read an old format sym/sch file!
+Please run g[sym|sch]update on:
+[/home/david/gaf/gschem-sym/12V-minus.sym]
+Read an old format sym/sch file!
+Please run g[sym|sch]update on:
+[/home/david/gaf/gschem-sym/resistor-0.sym]
+Read an old format sym/sch file!
+Please run g[sym|sch]update on:
+[/home/david/gaf/gschem-sym/resistor-0.sym]
+Read an old format sym/sch file!
+Please run g[sym|sch]update on:
+[/home/david/gaf/gschem-sym/resistor-0.sym]
+Read an old format sym/sch file!
+Please run g[sym|sch]update on:
+[/home/david/gaf/gschem-sym/resistor-0.sym]
+Read an old format sym/sch file!
+Please run g[sym|sch]update on:
+[/home/david/gaf/gschem-sym/CA3420-5.sym]
+Read an old format sym/sch file!
+Please run g[sym|sch]update on:
+[/home/david/gaf/gschem-sym/CA3420-5.sym]
+Read an old format sym/sch file!
+Please run g[sym|sch]update on:
+[/home/david/gaf/gschem-sym/LT1008-5.sym]
+Read an old format sym/sch file!
+Please run g[sym|sch]update on:
+[/home/david/gaf/gschem-sym/12V-minus.sym]
+Read an old format sym/sch file!
+Please run g[sym|sch]update on:
+[/home/david/gaf/gschem-sym/12V-plus.sym]
+Read an old format sym/sch file!
+Please run g[sym|sch]update on:
+[/home/david/gaf/gschem-sym/resistor-0.sym]
+Read an old format sym/sch file!
+Please run g[sym|sch]update on:
+[/home/david/gaf/gschem-sym/resistor-0.sym]
+Read an old format sym/sch file!
+Please run g[sym|sch]update on:
+[/home/david/gaf/gschem-sym/resistor-0.sym]
+Read an old format sym/sch file!
+Please run g[sym|sch]update on:
+[/home/david/gaf/gschem-sym/resistor-0.sym]
+Opened schematic [/home/david/gaf/vanderPauw/vanderPauw.sch]

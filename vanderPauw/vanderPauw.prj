@@ -1,0 +1,11 @@
+[GMANAGER]
+VERSION = "20040111"
+
+[PROJECT]
+AUTHOR = "David Grant"
+DESC = ""
+
+[FILES]
+FILE = "vanderPauw.cir", ""
+FILE = "vanderPauw.sch", ""
+

@@ -1,0 +1,10 @@
+comp2	X1-1 
+comp1	X1-8 
+vin	V1-1 X1-3 
+vout	X1-6 X1-2 R1-1 
+unnamed_net2	U?-1 R?-2 R?-1 
+unnamed_net1	D?-2 C?-1 R?-2 R?-1 U?-1 
++12V	D?-1 C?-1 U?-2 U?-3 R?-1 C?-2 
+V_pos	C?-1 U?-3 CONN?-1 
+GND	V1-2 R1-2 C?-2 R?-2 C?-1 CONN?-4 CONN?-2 
+V_neg	U?-2 C?-2 CONN?-3 

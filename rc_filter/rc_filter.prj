@@ -1,0 +1,10 @@
+[GMANAGER]
+VERSION = "20041228"
+
+[PROJECT]
+AUTHOR = "david"
+DESC = ""
+
+[FILES]
+FILE = "rc_filter.sch", ""
+

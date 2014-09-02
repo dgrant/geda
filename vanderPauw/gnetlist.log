@@ -1,0 +1,30 @@
+gEDA/gnetlist version 20030901
+gEDA/gnetlist comes with ABSOLUTELY NO WARRANTY; see COPYING for more details.
+This is free software, and you are welcome to redistribute it under certain
+conditions; please see the COPYING file for more details.
+
+Read system-gnetlistrc file [/usr/share/gEDA/system-gnetlistrc]
+Read ~/.gEDA/gnetlistrc file [/home/david/.gEDA/gnetlistrc]
+Did not find local gnetlistrc file [./gnetlistrc]
+The file /home/david/gaf/gschem-sym/capacitor-polar-0.sym has a version of 20030223.
+Please run g[sym|sch]update on /home/david/gaf/gschem-sym/capacitor-polar-0.sym to update.
+The file /home/david/gaf/gschem-sym/capacitor-polar-0.sym has a version of 20030223.
+Please run g[sym|sch]update on /home/david/gaf/gschem-sym/capacitor-polar-0.sym to update.
+The file /home/david/gaf/gschem-sym/capacitor-polar-0.sym has a version of 20030223.
+Please run g[sym|sch]update on /home/david/gaf/gschem-sym/capacitor-polar-0.sym to update.
+The file /home/david/gaf/gschem-sym/capacitor-polar-0.sym has a version of 20030223.
+Please run g[sym|sch]update on /home/david/gaf/gschem-sym/capacitor-polar-0.sym to update.
+The file /home/david/gaf/gschem-sym/resistor-0.sym has a version of 20030223.
+Please run g[sym|sch]update on /home/david/gaf/gschem-sym/resistor-0.sym to update.
+The file /home/david/gaf/gschem-sym/resistor-0.sym has a version of 20030223.
+Please run g[sym|sch]update on /home/david/gaf/gschem-sym/resistor-0.sym to update.
+The file /home/david/gaf/gschem-sym/resistor-0.sym has a version of 20030223.
+Please run g[sym|sch]update on /home/david/gaf/gschem-sym/resistor-0.sym to update.
+The file /home/david/gaf/gschem-sym/resistor-0.sym has a version of 20030223.
+Please run g[sym|sch]update on /home/david/gaf/gschem-sym/resistor-0.sym to update.
+The file /home/david/gaf/gschem-sym/capacitor-polar-0.sym has a version of 20030223.
+Please run g[sym|sch]update on /home/david/gaf/gschem-sym/capacitor-polar-0.sym to update.
+Opened schematic [vanderPauw_power.sch]
+Opened schematic [/home/david/gaf/vanderPauw/vanderPauw.sch]
+Read init scm file [/usr/share/gEDA/scheme/gnetlist.scm]
+Read gsch2pcb scm file [/usr/share/gEDA/scheme/gnet-gsch2pcb.scm]

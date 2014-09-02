@@ -1,0 +1,10 @@
+[GMANAGER]
+VERSION = "20041228"
+
+[PROJECT]
+AUTHOR = "David Grant"
+DESC = "Josephson Junction"
+
+[FILES]
+FILE = "josephson.sch", ""
+
